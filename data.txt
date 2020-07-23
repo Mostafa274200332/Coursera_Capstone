@@ -1,0 +1,3 @@
+data:
+-venues of client's neighborhood .
+-venues of neighborhoods that client has to choose from.
