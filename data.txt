@@ -1,0 +1,3 @@
+data:
+-venues of brooklyn's neighborhoods .(four square api)
+-json file that has data of all NY neighborhoods(coordinates and borough).
