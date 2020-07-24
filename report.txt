@@ -1,0 +1,6 @@
+-we use our dataset
+-extract rows that has borough=brooklyn
+-get venues of each neighborhood by foursquare api
+-get venues count in each neighborhood
+-cluster neighborhoods
+-visualize a map using  folium
